@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Venkata Sai Srikar Devulapalli
-- 👀 I’m interested in solving real world problems using ML and deep learing techniques
+- 👀 I’m interested in solving real world problems using AI and ML methods
+- :seedling:I am currently learning Applied Algorithms, Advanced Database Concepts and Data Visualization
+- :handshake: I am looking for work opportunities in Data Science and Software Engineering roles
 - 📫 How to reach me mailtosrikar97@gmail.com | vdevula@iu.edu
