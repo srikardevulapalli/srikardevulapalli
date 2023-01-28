@@ -2,3 +2,4 @@
 - 👀 I’m interested in solving real world problems using AI and ML methods
 - :handshake: I am looking for work opportunities in Data Science and Software Engineering roles
 - 📫 How to reach me mailtosrikar97@gmail.com | vdevula@iu.edu
+- See my latest work: https://www.canva.com/design/DAFWEqwrluY/nIkbiNHsVKtjyFs-J1dtxg/view?website#1:overview
